@@ -1,9 +1,42 @@
 <?php>
+      /*
+
+      Intent of project currently 15.01.2021
+
+      personal website/blog
+      social media filler
+      Portfolio
+      resume
+
+      ---- current progress ----
+
+      scheming out scope of project
+      choosing libarys
+
+      generating basic content for the website (adress, data, images,)
+      gathering content
+
+      making first steps with git and version control
+      learning PHP
+
+      ----  goals ----
+
+      fetching JavaScript experince
+      deeper dive into git
+
+      ---- stretch goals ----
+
+      gaining insights into backend administration through selfhosting
+      gaining first devops experince
+      finishing the project
+
+      */
   !<!DOCTYPE html>
   <html lang="de">
   <head>
     <meta charset="utf-8" />
     <title>F.B. kleine Webseite</title>
+    // Stopping here gotta add some workscripts tomorrow. Wanna run with Latte, Bootstrap/Zurb undecided yet + Django JS. CSS pre-processor is prob. gonna be SASS adding in more scripts & sources as soon as demand or interest rises.
   </head>
 <body>
   <header>
