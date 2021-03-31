@@ -23,7 +23,7 @@
 
 	- Shariff      ` // very nice social media plugin`
 
-##  Intent of project currently 15/01/2021 02:27
+##  Intent of project currently 01/04/2021 00:53
        personal website/blog
        social media filler / linkhub
        Portfolio
