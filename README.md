@@ -3,14 +3,14 @@
 # Progress not yet started
 ## Current WiP codebase
 
+- HTML5
+- CSS3 self-code
+	- CSS-Helper stylelint     `// uniform CSS styles`
 - PHP 8
 	- Dependency manager Composer
 	- Package manager NPM
 	- PHP-Template Engine Latte
 	- Caching Varnish HTTP Cache
-
-- CSS 3 self-code
-	- CSS-Helper stylelint     `// uniform CSS styles`
 
 - JavaScript mainly ECMA Script 2020
 	- Hammer.js     `// Adding touch gestures`
@@ -23,14 +23,14 @@
 
 	- Shariff      ` // very nice social media plugin`
 
-##  Intent of project currently 01/04/2021 00:53
-       personal website/blog
-       social media filler / linkhub
-       Portfolio
-       resume
-       backup portal for future or past videos
+##  Intent of project currently 01/04/2021 00:55
+	personal website/blog
+	social media filler / linkhub
+	Portfolio
+	resume
+	backup portal for future or past videos
 ##  current progress 
-      	scheming out scope of project
+	scheming out scope of project
 	choosing libarys
 	generating basic content for the website (adress, data, images,)
 	gathering content
@@ -46,8 +46,8 @@
 	fetching JavaScript experince
 	gaining experince with common dependencies such as Hammer.js / Polifill, Xajax
 ##   stretch goals
-       gaining insights into backend administration through selfhosting
-       gaining first devops experince
-       gaining experince with service workers deploying a website for offline usage as PWA as well
-       finishing the project
+	gaining insights into backend administration through selfhosting
+	gaining first devops experince
+	gaining experince with service workers deploying a website for offline usage as PWA as well
+	finishing the project
 
