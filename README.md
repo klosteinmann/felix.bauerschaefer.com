@@ -9,7 +9,6 @@
 	- PHP-Template Engine Latte
 	- Caching Varnish HTTP Cache
 
-
 - CSS 3 self-code
 	- CSS-Helper stylelint     `// uniform CSS styles`
 
@@ -17,11 +16,12 @@
 	- Hammer.js     `// Adding touch gestures`
 	- Polyfill      `// cross browser support`
 	- Xajax         `// i just have no idea of Ajax that's why this might come handy`
+	- LBRY / PeerTube video player `// probably will come handy as I won't wanna code the feature for the video player myself`
+	- service worker `// placeholder for now as I can't really tell how hard this is gonna get and which one I might use here possibly googles`
 
 - TPC (third party components):
 
 	- Shariff      ` // very nice social media plugin`
-
 
 ##  Intent of project currently 15/01/2021 02:27
        personal website/blog
@@ -37,10 +37,14 @@
        making first steps with git and version control
        learning PHP
 ##   goals
-       fetching JavaScript experince
-       deeper dive into git
+	deeper dive into git
+	more collaboration with front-end, back-end devs
+	fetching experince with grid system
+       	fetching JavaScript experince
+	gaining experince with common dependencies such as Hammer.js / Polifill, Xajax
 ##   stretch goals
        gaining insights into backend administration through selfhosting
        gaining first devops experince
+       gaining experince with service workers deploying a website for offline usage as PWA as well
        finishing the project
 
