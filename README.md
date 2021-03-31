@@ -30,17 +30,20 @@
        resume
        backup portal for future or past videos
 ##  current progress 
-      scheming out scope of project
-       choosing libarys
-       generating basic content for the website (adress, data, images,)
-       gathering content
-       making first steps with git and version control
-       learning PHP
+      	scheming out scope of project
+	choosing libarys
+	generating basic content for the website (adress, data, images,)
+	gathering content
+	making first steps with git and version control
+	learning PHP
 ##   goals
+	sketchup website via Adobe XD
+	generating prototype
+	gaining first impressions on projects and leads on UX/UI
 	deeper dive into git
 	more collaboration with front-end, back-end devs
 	fetching experince with grid system
-       	fetching JavaScript experince
+	fetching JavaScript experince
 	gaining experince with common dependencies such as Hammer.js / Polifill, Xajax
 ##   stretch goals
        gaining insights into backend administration through selfhosting
