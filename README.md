@@ -23,11 +23,10 @@
 
 	- Shariff      ` // very nice social media plugin`
 
-##  Intent of project currently 01/04/2021 00:55
+##  Intent of project currently 01/04/2021 00:57
 	personal website/blog
 	social media filler / linkhub
 	Portfolio
-	resume
 	backup portal for future or past videos
 ##  current progress 
 	scheming out scope of project
